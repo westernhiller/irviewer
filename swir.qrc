@@ -1,0 +1,28 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>icons/about.png</file>
+        <file>icons/sitp.png</file>
+        <file>icons/open.png</file>
+        <file>icons/analyze.png</file>
+        <file>icons/analyzepressed.png</file>
+        <file>icons/play.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/bg.png</file>
+        <file>icons/bgpressed.png</file>
+        <file>icons/cam.png</file>
+        <file>icons/campressed.png</file>
+        <file>icons/save.png</file>
+        <file>icons/capture.png</file>
+        <file>icons/power.png</file>
+        <file>icons/photo.png</file>
+        <file>icons/photopressed.png</file>
+        <file>icons/record.png</file>
+        <file>icons/video.png</file>
+        <file>icons/videopressed.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/connect.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/settingspressed.png</file>
+    </qresource>
+</RCC>
